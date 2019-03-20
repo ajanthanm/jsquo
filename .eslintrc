@@ -1,0 +1,9 @@
+{
+    "extends": "airbnb",
+    "env": {
+    "commonjs": true,
+    "es6": true,
+    "browser": true
+    },
+    "rules": { }
+}
